@@ -128,7 +128,7 @@ Manual attendance systems are prone to errors, time-consuming, and vulnerable to
 
 - Scalability: The folder-based database supports dynamic organizational needs.
 
-6.This project showcases the integration of computer vision and GUI design to solve real-world problems in attendance management.
+- This project showcases the integration of computer vision and GUI design to solve real-world problems in attendance management.
 
 ## 🏃‍♂️ How We Came to Solve This Problem?
 
