@@ -100,7 +100,38 @@ Password: teacher@123
 
 ## 👀 Application Preview
 
-Login Portal	Student Desk	Teacher Desk	Attendance Capture
+![image](https://github.com/user-attachments/assets/6a97a710-e774-45f7-afe7-95954f729611)
+
+![image](https://github.com/user-attachments/assets/6b6492df-46e7-4a8a-b9bc-13e4877b3e75)
+
+After get registered student can login with their respective credentials.
+
+![image](https://github.com/user-attachments/assets/a149992d-a620-4600-875b-048ef9f28120)
+
+Teacher may log in using the default credentials, which are teacher@123 and user name:teacher.
+
+![image](https://github.com/user-attachments/assets/d6c39452-a865-4a8c-8212-1ecb9acfc9b9)
+![image](https://github.com/user-attachments/assets/f6cb6b80-c663-43ea-b45f-7b4be3bd730a)
+
+Students must take a picture of themselves as soon as they log in to their desks in order for facial detection to be utilized to take attendance.
+
+![image](https://github.com/user-attachments/assets/9c911c4a-b638-4907-b5e0-00833b3945f0)
+
+Teachers are required to block student images once they are taken in order to prevent subsequent students from taking pictures of themselves until the instructor removes the block. This prevents future students from engaging in unethical attendance practices.
+
+![image](https://github.com/user-attachments/assets/02ccb4a2-8cf4-4e0e-b795-23821ee58480)
+
+Following this, students can record their attendance by choosing a subject and faculty member. If the image recognition process matches the picture the student took, they will receive their attendance; if not, it will be denied.
+
+![image](https://github.com/user-attachments/assets/42433b1a-aa1b-490c-aff5-2d73c65aabd0)
+
+![image](https://github.com/user-attachments/assets/83e90eca-7774-4f4c-a38f-13a8dec9d592)
+
+![image](https://github.com/user-attachments/assets/517cb3dc-f1f5-47db-93c2-c6c2afe0c495)
+
+Once students give their attendance teacher can view students attendance in their desk.
+
+![image](https://github.com/user-attachments/assets/a7e16501-4403-4e40-92b3-681aacd4f85d)
 
 ## 📝 Why This Project?
 
