@@ -160,15 +160,15 @@ New to Python or computer vision? Start here:
 
 Thanks to these contributors:
 
-- Venkata Satya (CB.EN.U4AIE22005)
+     - Venkata Satya (CB.EN.U4AIE22005)
 
-- Kolla Lokesh (CB.EN.U4AIE22027)
+     - Kolla Lokesh (CB.EN.U4AIE22027)
 
-- Goli Surya Teja (CB.EN.U4AIE22069)
+     - Goli Surya Teja (CB.EN.U4AIE22069)
 
-- Rama Krishna Prasad (CB.EN.U4AIE22070)
+     - Rama Krishna Prasad (CB.EN.U4AIE22070)
 
-- Project Guide: Ms. Sreelakshmi K
+     - Project Guide: Ms. Sreelakshmi K
 
 ## 🙌 Contributing
 
